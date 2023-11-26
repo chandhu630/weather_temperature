@@ -1,0 +1,33 @@
+
+
+.photo-viewer-container {
+    width:900px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .photo {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
+  .photo img {
+    height: 200px;
+  }
+  
+  .name-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    cursor: pointer;
+    justify-content: center;
+  }
+  
+  .name-list-item {
+   
+    margin: 0 10px;
+    font-size: 16px;
+  }
+  

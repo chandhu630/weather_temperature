@@ -1,0 +1,8 @@
+.photo-size
+{
+    height:500px;
+    width:900px;
+    margin-top: 40px;
+    cursor: pointer;
+    border:3px solid pink;
+}

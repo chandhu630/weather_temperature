@@ -1,0 +1,28 @@
+.Navbar
+{
+    height:80px;
+    background-image: linear-gradient(to right,pink,darkblue,orange);
+}
+.input-bar
+{
+    width:700px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.margin-left
+{
+    margin-right:80px;
+    border: px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    height:30px;
+    width:40px;
+    background-image: linear-gradient(to top,pink,blue,pink);
+}
+.achor
+{
+    color:black;
+    text-decoration: none;
+}
